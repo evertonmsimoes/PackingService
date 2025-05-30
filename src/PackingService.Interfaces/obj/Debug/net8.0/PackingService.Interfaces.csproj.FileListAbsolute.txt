@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.Interfaces.deps.json
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.Interfaces.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.Interfaces.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.DTOs.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.DTOs.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.csproj.AssemblyReference.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.AssemblyInfo.cs
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingS.2F915EF6.Up2Date
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\refint\PackingService.Interfaces.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\ref\PackingService.Interfaces.dll

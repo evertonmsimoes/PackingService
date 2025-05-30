@@ -1,0 +1,17 @@
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Service.deps.json
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Service.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Service.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.DTOs.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Interfaces.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Interfaces.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.DTOs.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.csproj.AssemblyReference.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.AssemblyInfo.cs
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingS.0D2C6045.Up2Date
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\refint\PackingService.Service.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\ref\PackingService.Service.dll

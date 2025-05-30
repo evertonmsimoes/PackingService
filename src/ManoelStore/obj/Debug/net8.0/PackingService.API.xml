@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PackingService.API</name>
+    </assembly>
+    <members>
+        <member name="M:PackingService.API.Controllers.PackageController.ReturnBoxesOrders(DTOs.Request.OrdersRequestDTO)">
+            <summary>
+            Retorna as melhores caixas para o pedido.
+            </summary>
+            <remarks>
+            Esse endpoint retorna uma lista com as melhores caixas e a disposição ideal dos produtos para cada pedido enviado.
+            </remarks>
+        </member>
+    </members>
+</doc>

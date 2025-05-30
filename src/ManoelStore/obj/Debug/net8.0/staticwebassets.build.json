@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4EnNeFR1PlryvueZpgQEAXyYHl+R/Y4DiHUh7NGBVNY=",
+  "Source": "PackingService.API",
+  "BasePath": "_content/PackingService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\bin\Debug\net8.0\PackingService.DTOs.deps.json
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\bin\Debug\net8.0\PackingService.DTOs.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\bin\Debug\net8.0\PackingService.DTOs.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.AssemblyInfo.cs
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\refint\PackingService.DTOs.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\ref\PackingService.DTOs.dll
