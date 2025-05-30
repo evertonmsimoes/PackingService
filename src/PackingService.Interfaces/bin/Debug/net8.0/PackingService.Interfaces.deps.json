@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "PackingService.Interfaces/1.0.0": {
         "dependencies": {
-          "PackingService.DTOs": "1.0.0"
+          "PackingService.DTOs": "1.0.0",
+          "PackingService.Entities": "1.0.0"
         },
         "runtime": {
           "PackingService.Interfaces.dll": {}
@@ -17,6 +18,14 @@
       "PackingService.DTOs/1.0.0": {
         "runtime": {
           "PackingService.DTOs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PackingService.Entities/1.0.0": {
+        "runtime": {
+          "PackingService.Entities.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +40,11 @@
       "sha512": ""
     },
     "PackingService.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PackingService.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

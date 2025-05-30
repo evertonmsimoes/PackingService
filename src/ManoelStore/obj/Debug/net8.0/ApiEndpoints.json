@@ -16,23 +16,13 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ManoelStore.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "PackingService.API.Controllers.PackageController",
+    "Method": "GetAllBoxes",
+    "RelativePath": "api/Package/boxes",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ManoelStore.WeatherForecast, PackingService.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

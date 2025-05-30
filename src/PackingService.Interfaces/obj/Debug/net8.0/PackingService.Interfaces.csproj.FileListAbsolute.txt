@@ -14,3 +14,5 @@ C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\ob
 C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.pdb
 C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\ref\PackingService.Interfaces.dll
 C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\obj\Debug\net8.0\PackingService.Interfaces.sourcelink.json
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.Entities.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\PackingService.Interfaces\bin\Debug\net8.0\PackingService.Entities.pdb

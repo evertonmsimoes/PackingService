@@ -1,5 +1,6 @@
 ﻿using DTOs.Request;
 using DTOs.Response;
+using PackingService.Entities;
 
 
 namespace PackingService.Interfaces.Service
@@ -8,6 +9,7 @@ namespace PackingService.Interfaces.Service
     {
 
         Task<IEnumerable<BoxesResponseDTO>> OrderPackagingAsync(OrdersRequestDTO request);
+        IEnumerable<Boxes> GetAllBoxes();
 
     }
 }

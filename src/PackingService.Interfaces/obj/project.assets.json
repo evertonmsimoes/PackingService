@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/PackingService.DTOs.dll": {}
         }
+      },
+      "PackingService.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PackingService.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PackingService.Entities.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../DTOs/PackingService.DTOs.csproj",
       "msbuildProject": "../DTOs/PackingService.DTOs.csproj"
+    },
+    "PackingService.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/PackingService.Entities.csproj",
+      "msbuildProject": "../Entities/PackingService.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "PackingService.DTOs >= 1.0.0"
+      "PackingService.DTOs >= 1.0.0",
+      "PackingService.Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\DTOs\\PackingService.DTOs.csproj": {
               "projectPath": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\DTOs\\PackingService.DTOs.csproj"
+            },
+            "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Entities\\PackingService.Entities.csproj": {
+              "projectPath": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Entities\\PackingService.Entities.csproj"
             }
           }
         }

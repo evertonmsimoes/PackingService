@@ -16,3 +16,7 @@ C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\ref
 C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.pdb
 C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\ref\PackingService.Service.dll
 C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.sourcelink.json
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Entities.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Repository.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Repository.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\bin\Debug\net8.0\PackingService.Entities.pdb

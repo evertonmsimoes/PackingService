@@ -1,0 +1,12 @@
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\bin\Debug\net8.0\PackingService.Entities.deps.json
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\bin\Debug\net8.0\PackingService.Entities.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\bin\Debug\net8.0\PackingService.Entities.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.AssemblyInfo.cs
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.sourcelink.json
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\refint\PackingService.Entities.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\PackingService.Entities.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\Entities\obj\Debug\net8.0\ref\PackingService.Entities.dll

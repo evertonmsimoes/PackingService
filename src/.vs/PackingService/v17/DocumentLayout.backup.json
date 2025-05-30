@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\repository\\packingservice.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|solutionrelative:repository\\packingservice.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\repository\\packingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|solutionrelative:repository\\packingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D720DFF0-486F-4A25-ADCB-F237C43D8ED5}|DTOs\\PackingService.DTOs.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\dtos\\response\\boxesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D720DFF0-486F-4A25-ADCB-F237C43D8ED5}|DTOs\\PackingService.DTOs.csproj|solutionrelative:dtos\\response\\boxesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D776254-E3FA-4951-8E2D-F5972A0F2239}|Service\\PackingService.Service.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\service\\packingserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D776254-E3FA-4951-8E2D-F5972A0F2239}|Service\\PackingService.Service.csproj|solutionrelative:service\\packingserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E95DF39F-8212-44A4-BA4F-0371D7C46A06}|Entities\\PackingService.Entities.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\entities\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E95DF39F-8212-44A4-BA4F-0371D7C46A06}|Entities\\PackingService.Entities.csproj|solutionrelative:entities\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4B372FA-0E01-4459-88E3-AA1A9F9B8EA3}|PackingService.Interfaces\\PackingService.Interfaces.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\packingservice.interfaces\\service\\ipackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B372FA-0E01-4459-88E3-AA1A9F9B8EA3}|PackingService.Interfaces\\PackingService.Interfaces.csproj|solutionrelative:packingservice.interfaces\\service\\ipackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{910051F3-4389-44B6-A767-435794D6056D}|PackingService.Enums\\PackingService.Enums.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\packingservice.enums\\boxesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{910051F3-4389-44B6-A767-435794D6056D}|PackingService.Enums\\PackingService.Enums.csproj|solutionrelative:packingservice.enums\\boxesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\repository\\packingdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|solutionrelative:repository\\packingdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95DF39F-8212-44A4-BA4F-0371D7C46A06}|Entities\\PackingService.Entities.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\entities\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E95DF39F-8212-44A4-BA4F-0371D7C46A06}|Entities\\PackingService.Entities.csproj|solutionrelative:entities\\boxes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\manoelstore\\packingservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC0B38B9-2311-4D5D-AB0F-C0DC3209C28B}|ManoelStore\\PackingService.API.csproj|solutionrelative:manoelstore\\packingservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\repository\\packingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9F7145A-658D-45C4-A61A-89E212E6DB98}|Repository\\PackingService.Repository.csproj|solutionrelative:repository\\packingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910051F3-4389-44B6-A767-435794D6056D}|PackingService.Enums\\PackingService.Enums.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\packingservice.enums\\boxesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910051F3-4389-44B6-A767-435794D6056D}|PackingService.Enums\\PackingService.Enums.csproj|solutionrelative:packingservice.enums\\boxesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D720DFF0-486F-4A25-ADCB-F237C43D8ED5}|DTOs\\PackingService.DTOs.csproj|c:\\users\\dtidigital\\source\\repos\\packingservice\\src\\dtos\\response\\boxesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D720DFF0-486F-4A25-ADCB-F237C43D8ED5}|DTOs\\PackingService.DTOs.csproj|solutionrelative:dtos\\response\\boxesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,82 +58,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 287,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PackingService.Repository",
-              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingService.Repository.csproj",
-              "RelativeDocumentMoniker": "Repository\\PackingService.Repository.csproj",
-              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingService.Repository.csproj",
-              "RelativeToolTip": "Repository\\PackingService.Repository.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-30T05:42:47.27Z",
+              "DocumentIndex": 1,
+              "Title": "IPackingService.cs",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Interfaces\\Service\\IPackingService.cs",
+              "RelativeDocumentMoniker": "PackingService.Interfaces\\Service\\IPackingService.cs",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Interfaces\\Service\\IPackingService.cs",
+              "RelativeToolTip": "PackingService.Interfaces\\Service\\IPackingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T01:59:09.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ManoelStore\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\appsettings.Development.json",
-              "RelativeToolTip": "ManoelStore\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-30T05:02:58.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BoxesResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\DTOs\\Response\\BoxesResponseDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\Response\\BoxesResponseDTO.cs",
-              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\DTOs\\Response\\BoxesResponseDTO.cs",
-              "RelativeToolTip": "DTOs\\Response\\BoxesResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T02:12:38.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\Program.cs",
               "RelativeDocumentMoniker": "ManoelStore\\Program.cs",
               "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\Program.cs",
               "RelativeToolTip": "ManoelStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T02:18:32.441Z",
+              "WhenOpened": "2025-05-30T06:02:10.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackingDbContextFactory .cs",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingDbContextFactory .cs",
+              "RelativeDocumentMoniker": "Repository\\PackingDbContextFactory .cs",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingDbContextFactory .cs",
+              "RelativeToolTip": "Repository\\PackingDbContextFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:25:40.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PackingDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingDbContext.cs",
-              "RelativeDocumentMoniker": "Repository\\PackingDbContext.cs",
-              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingDbContext.cs",
-              "RelativeToolTip": "Repository\\PackingDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T04:56:09.766Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ManoelStore\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\appsettings.Development.json",
+              "RelativeToolTip": "ManoelStore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T06:07:07.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PackingServiceImp.cs",
               "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Service\\PackingServiceImp.cs",
               "RelativeDocumentMoniker": "Service\\PackingServiceImp.cs",
               "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Service\\PackingServiceImp.cs",
               "RelativeToolTip": "Service\\PackingServiceImp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T01:59:32.474Z",
               "EditorCaption": ""
@@ -133,32 +128,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IPackingService.cs",
-              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Interfaces\\Service\\IPackingService.cs",
-              "RelativeDocumentMoniker": "PackingService.Interfaces\\Service\\IPackingService.cs",
-              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Interfaces\\Service\\IPackingService.cs",
-              "RelativeToolTip": "PackingService.Interfaces\\Service\\IPackingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T01:59:09.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PackageController.cs",
-              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\Controllers\\PackageController.cs",
-              "RelativeDocumentMoniker": "ManoelStore\\Controllers\\PackageController.cs",
-              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\Controllers\\PackageController.cs",
-              "RelativeToolTip": "ManoelStore\\Controllers\\PackageController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:44:19.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Boxes.cs",
               "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Entities\\Boxes.cs",
               "RelativeDocumentMoniker": "Entities\\Boxes.cs",
@@ -171,16 +140,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\appsettings.json",
+              "RelativeDocumentMoniker": "ManoelStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\appsettings.json",
+              "RelativeToolTip": "ManoelStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T06:07:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "ManoelStore\\Controllers\\PackageController.cs",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "ManoelStore\\Controllers\\PackageController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:44:19.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "PackingService.API.csproj",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\PackingService.API.csproj",
+              "RelativeDocumentMoniker": "ManoelStore\\PackingService.API.csproj",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\ManoelStore\\PackingService.API.csproj",
+              "RelativeToolTip": "ManoelStore\\PackingService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T06:15:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PackingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\PackingDbContext.cs",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Repository\\PackingDbContext.cs",
+              "RelativeToolTip": "Repository\\PackingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:56:09.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BoxesEnum.cs",
               "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Enums\\BoxesEnum.cs",
               "RelativeDocumentMoniker": "PackingService.Enums\\BoxesEnum.cs",
               "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Enums\\BoxesEnum.cs",
               "RelativeToolTip": "PackingService.Enums\\BoxesEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T03:20:57.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T03:20:57.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoxesResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\DTOs\\Response\\BoxesResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\Response\\BoxesResponseDTO.cs",
+              "ToolTip": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\DTOs\\Response\\BoxesResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\Response\\BoxesResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:12:38.112Z"
             }
           ]
         }

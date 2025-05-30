@@ -29,5 +29,12 @@ namespace PackingService.API.Controllers
             var result = await _packingService.OrderPackagingAsync(request);
             return Ok(result);
         }
+
+        [HttpGet("boxes")]
+        public IActionResult GetAllBoxes()
+        {
+            var boxes = _packingService.GetAllBoxes();
+            return Ok(boxes);
+        }
     }
 }

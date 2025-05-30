@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using PackingService.Interfaces.Service;
+using PackingService.Repository;
 using PackingService.Service;
 using System.Reflection;
 
@@ -9,7 +11,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddDbContext<PackingDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
+    sqlOptions => sqlOptions.MigrationsAssembly("PackingService.Repository")));
+
+
 
 // Dependency Injection
 builder.Services.AddTransient<IPackingService, PackingServiceImp>();

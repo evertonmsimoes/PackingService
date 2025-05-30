@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -12,6 +12,11 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="8.1.2" />
@@ -22,6 +27,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DTOs\PackingService.DTOs.csproj" />
     <ProjectReference Include="..\PackingService.Interfaces\PackingService.Interfaces.csproj" />
+    <ProjectReference Include="..\Repository\PackingService.Repository.csproj" />
     <ProjectReference Include="..\Service\PackingService.Service.csproj" />
   </ItemGroup>
 

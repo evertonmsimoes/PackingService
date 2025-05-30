@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PackingService.Interfaces\PackingService.Interfaces.csproj" />
+    <ProjectReference Include="..\Repository\PackingService.Repository.csproj" />
   </ItemGroup>
 
 </Project>

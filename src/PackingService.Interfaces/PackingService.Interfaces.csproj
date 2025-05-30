@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DTOs\PackingService.DTOs.csproj" />
+    <ProjectReference Include="..\Entities\PackingService.Entities.csproj" />
   </ItemGroup>
 
 </Project>
