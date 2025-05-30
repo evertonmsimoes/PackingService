@@ -9,3 +9,4 @@ C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\Packin
 C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\refint\PackingService.DTOs.dll
 C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.pdb
 C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\ref\PackingService.DTOs.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\DTOs\obj\Debug\net8.0\PackingService.DTOs.sourcelink.json

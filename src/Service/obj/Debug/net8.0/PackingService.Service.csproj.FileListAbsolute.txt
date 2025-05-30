@@ -15,3 +15,4 @@ C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\Pac
 C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\refint\PackingService.Service.dll
 C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.pdb
 C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\ref\PackingService.Service.dll
+C:\Users\dtiDigital\source\repos\PackingService\src\Service\obj\Debug\net8.0\PackingService.Service.sourcelink.json

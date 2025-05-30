@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  sqlserver-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: my-sqlserver-packing-service
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "I8S*4N482b80NgsWAprh4<4//"  
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver-data:/var/opt/mssql
+    restart: unless-stopped
+
+volumes:
+  sqlserver-data:

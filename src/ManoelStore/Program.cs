@@ -8,6 +8,9 @@ builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
 
+builder.Services.AddDbContext<PackingDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 // Dependency Injection
 builder.Services.AddTransient<IPackingService, PackingServiceImp>();
 

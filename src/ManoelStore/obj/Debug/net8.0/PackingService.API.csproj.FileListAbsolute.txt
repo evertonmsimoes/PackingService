@@ -237,3 +237,4 @@ C:\Users\dtiDigital\source\repos\PackingService\src\ManoelStore\bin\Debug\net8.0
 C:\Users\dtiDigital\source\repos\PackingService\src\ManoelStore\bin\Debug\net8.0\PackingService.Interfaces.pdb
 C:\Users\dtiDigital\source\repos\PackingService\src\ManoelStore\bin\Debug\net8.0\PackingService.Service.dll
 C:\Users\dtiDigital\source\repos\PackingService\src\ManoelStore\bin\Debug\net8.0\PackingService.Service.pdb
+C:\Users\dtiDigital\source\repos\PackingService\src\ManoelStore\obj\Debug\net8.0\PackingService.API.sourcelink.json

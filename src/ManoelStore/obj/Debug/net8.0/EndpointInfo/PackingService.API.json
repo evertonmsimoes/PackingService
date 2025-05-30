@@ -98,6 +98,9 @@
         "additionalProperties": false
       },
       "OrderDTO": {
+        "required": [
+          "produtos"
+        ],
         "type": "object",
         "properties": {
           "pedido_id": {
@@ -115,6 +118,9 @@
         "additionalProperties": false
       },
       "OrdersRequestDTO": {
+        "required": [
+          "pedidos"
+        ],
         "type": "object",
         "properties": {
           "pedidos": {
@@ -128,6 +134,10 @@
         "additionalProperties": false
       },
       "ProductDTO": {
+        "required": [
+          "dimensoes",
+          "produto_id"
+        ],
         "type": "object",
         "properties": {
           "produto_id": {
