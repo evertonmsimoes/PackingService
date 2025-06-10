@@ -7,6 +7,6 @@ namespace DTOs.Response
     {
         [JsonPropertyName("pedido_id")]
         public int PedidoId { get; set; }
-        public required List<BoxesDTO> Caixas { get; set; }
+        public required IEnumerable<BoxesDTO> Caixas { get; set; }
     }
 }
