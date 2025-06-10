@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "PackingService.API.Controllers.PackageController",
+    "ContainingType": "PackingService.API.Controllers.PackageManagementController",
     "Method": "ReturnBoxesOrders",
-    "RelativePath": "api/Package/box",
+    "RelativePath": "api/PackageManagement/box",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -13,16 +13,36 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DTOs.Response.BoxesResponseDTO, PackingService.DTOs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
-    "ContainingType": "PackingService.API.Controllers.PackageController",
-    "Method": "GetAllBoxes",
-    "RelativePath": "api/Package/boxes",
+    "ContainingType": "PackingService.API.Controllers.PackageManagementController",
+    "Method": "GetAllBoxesAsync",
+    "RelativePath": "api/PackageManagement/boxes",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PackingService.Entities.Boxes, PackingService.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

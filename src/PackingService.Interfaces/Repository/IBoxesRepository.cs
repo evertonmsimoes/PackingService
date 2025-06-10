@@ -1,7 +1,10 @@
 ﻿
+using PackingService.Entities;
+
 namespace PackingService.Interfaces.Repository
 {
-    interface IBoxesRepository
+    public interface IBoxesRepository
     {
+        Task<IEnumerable<Boxes>> GetAllBoxesAsync();
     }
 }

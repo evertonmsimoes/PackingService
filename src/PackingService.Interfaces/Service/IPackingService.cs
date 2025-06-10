@@ -9,7 +9,7 @@ namespace PackingService.Interfaces.Service
     {
 
         Task<IEnumerable<BoxesResponseDTO>> OrderPackagingAsync(OrdersRequestDTO request);
-        IEnumerable<Boxes> GetAllBoxes();
+        Task<IEnumerable<Boxes>> GetAllBoxes();
 
     }
 }

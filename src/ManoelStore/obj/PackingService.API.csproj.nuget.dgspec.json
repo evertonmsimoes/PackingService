@@ -353,6 +353,9 @@
             "projectReferences": {
               "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Entities\\PackingService.Entities.csproj": {
                 "projectPath": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\Entities\\PackingService.Entities.csproj"
+              },
+              "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Interfaces\\PackingService.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\dtiDigital\\source\\repos\\PackingService\\src\\PackingService.Interfaces\\PackingService.Interfaces.csproj"
               }
             }
           }

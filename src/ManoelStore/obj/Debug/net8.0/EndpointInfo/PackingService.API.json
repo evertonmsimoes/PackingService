@@ -5,10 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Package/box": {
+    "/api/PackageManagement/box": {
       "post": {
         "tags": [
-          "Package"
+          "PackageManagement"
         ],
         "summary": "Retorna as melhores caixas para o pedido.",
         "description": "Esse endpoint retorna uma lista com as melhores caixas e a disposição ideal dos produtos para cada pedido enviado.",
@@ -33,19 +33,71 @@
         },
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BoxesResponseDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BoxesResponseDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/BoxesResponseDTO"
+                  }
+                }
+              }
+            }
           }
         }
       }
     },
-    "/api/Package/boxes": {
+    "/api/PackageManagement/boxes": {
       "get": {
         "tags": [
-          "Package"
+          "PackageManagement"
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Boxes"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Boxes"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Boxes"
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -53,6 +105,82 @@
   },
   "components": {
     "schemas": {
+      "Boxes": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "altura": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "largura": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "comprimento": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "volume": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "BoxesDTO": {
+        "required": [
+          "caixa_id",
+          "produtos"
+        ],
+        "type": "object",
+        "properties": {
+          "caixa_id": {
+            "type": "string",
+            "nullable": true
+          },
+          "produtos": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "observacao": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "BoxesResponseDTO": {
+        "required": [
+          "caixas"
+        ],
+        "type": "object",
+        "properties": {
+          "pedido_id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "caixas": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/BoxesDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "DimensionDTO": {
         "type": "object",
         "properties": {

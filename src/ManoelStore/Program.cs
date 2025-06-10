@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using PackingService.Interfaces.Repository;
 using PackingService.Interfaces.Service;
 using PackingService.Repository;
 using PackingService.Service;
@@ -18,6 +19,7 @@ builder.Services.AddDbContext<PackingDbContext>(options =>
 
 // Dependency Injection
 builder.Services.AddTransient<IPackingService, PackingServiceImp>();
+builder.Services.AddTransient<IBoxesRepository, BoxesRepository>();
 
 builder.Services.AddSwaggerGen(options =>
 {

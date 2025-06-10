@@ -4,7 +4,7 @@
         <name>PackingService.API</name>
     </assembly>
     <members>
-        <member name="M:PackingService.API.Controllers.PackageController.ReturnBoxesOrders(DTOs.Request.OrdersRequestDTO)">
+        <member name="M:PackingService.API.Controllers.PackageManagementController.ReturnBoxesOrders(DTOs.Request.OrdersRequestDTO)">
             <summary>
             Retorna as melhores caixas para o pedido.
             </summary>

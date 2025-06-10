@@ -2122,7 +2122,8 @@
           "Microsoft.EntityFrameworkCore": "9.0.5",
           "Microsoft.EntityFrameworkCore.Abstractions": "9.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
-          "PackingService.Entities": "1.0.0"
+          "PackingService.Entities": "1.0.0",
+          "PackingService.Interfaces": "1.0.0"
         },
         "runtime": {
           "PackingService.Repository.dll": {
